@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="exact">
+        <item>At least you got something right!</item>
+        <item>How does it feel standing on the fence?</item>
+        <item>You just about made it! Tempted to bunk? Sorry, you can’t.</item>
+        <item>This is nothing to be proud of. You just got lucky.</item>
+        <item>This ain’t your GPA. Stop gloating.</item>
+        <item>Stop smiling. You just about made it.</item>
+    </string-array>
+
+    <string-array name="more">
+        <item>You REALLY need do other things in life!</item>
+        <item>You seem be to be pretty jobless.</item>
+        <item>God. Save us from this nerd.</item>
+        <item>Do you have any other life goals?</item>
+        <item>Classroom lover. Life Hater!</item>
+        <item>Do you have nowhere else to go?</item>
+        <item>Why? Why would you do this?</item>
+        <item>Maybe you can transfer you extra attendance to someone else?</item>
+        <item>Since you are always in class, how about some proxies for others?</item>
+        <item>Look around. You have nothing to do. </item>
+    </string-array>
+
+    <string-array name="low">
+        <item>You still have time to make up. Or Not. </item>
+        <item>Do you still have hopes?</item>
+        <item>The Eternal Optimist</item>
+        <item>It’s never too late to start. Or maybe it is.</item>
+        <item>Close enough. But still not good enough.</item>
+    </string-array>
+
+    <string-array name="drastic">
+        <item>Your time here is done. You may leave now. </item>
+        <item>Sorry. There is no light at the end of the tunnel for you. </item>
+        <item>You sad, sad, little person. Rise up and start over. </item>
+        <item>The juniors are here! Say hello! :)</item>
+        <item>Whoa! Those numbers are low. Really, really low.</item>
+        <item>May God… no, sorry, even God can’t help you.</item>
+        <item>It’s time to bring out the wallet  ;) </item>
+    </string-array>
+
+    <string-array name="smart">             <!--smartypants-->
+        <item> Liar, Liar! Pants on fire! </item>
+        <item>Really? You think you are that clever? Or we’re that dumb?</item>
+        <item>If only you used your extra smart brain in actual classes. </item>
+        <item>Wow! Genius. You are a class apart! </item>
+        <item>The world needs more people like you. </item>
+    </string-array>
+
+    <string-array name="incomplete">
+        <item>You make me feel incomplete. Enter all fields.</item>
+        <item>You make me feel stupid. Enter all fields.</item>
+        <item>You make me feel hopeless. Enter all fields.</item>
+        <item>You are not smart. Please enter all fields.</item>
+    </string-array>
+    <string-array name="dumb">
+        <item>Like, seriously? What is the matter with you?</item>
+        <item>No, can\'t do. Sorry.</item>
+        <item>The world could do without you.</item>
+        <item>How on Earth are we supposed to calculate that?</item>
+        <item>Aaaaaargh! That doesn\'t make any sense! You make no sense!</item>
+        <item>This is your last chance. Wake up that brain of yours.</item>
+        <item>Now, that\'s an all-time low level of dumbness.</item>
+    </string-array>
+</resources>

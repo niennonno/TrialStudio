@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="adfonic-android-sdk-2.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/adfonic-android-sdk-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
