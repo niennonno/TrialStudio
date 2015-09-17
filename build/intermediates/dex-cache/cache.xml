@@ -2,60 +2,74 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\3.1.59\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="2dd7b1a9ea65bb03d9cd16df777eeaf537a1fc81">
-        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\release\classes-0e5bb3bd5a213f347d8d2213e3ba9e5d8d50baaa.jar" />
-    </item>
-    <item
         jar="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\libs\adfonic-android-sdk-2.0.2.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="2a3e5b7db1c85d0968396d1783c4a483c869be89">
-        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\release\adfonic-android-sdk-2.0.2-a5c312964f8f23b1200f12efe99518b836b78258.jar" />
+        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\debug\adfonic-android-sdk-2.0.2-a5c312964f8f23b1200f12efe99518b836b78258.jar" />
     </item>
     <item
-        jar="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jar="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\libs\Parse-1.10.1.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\release\internal_impl-22.2.1-f57a76fca4586850d05a6677591e74593e926f72.jar" />
+        sha1="181b435832725bec96c11ff568bdfbccdacab944">
+        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\debug\Parse-1.10.1-31233d8aff08b0f19636c44a59d880a0f92ddf4f.jar" />
     </item>
     <item
-        jar="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jar="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\3.1.59\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\release\classes-5643f6bcd16c0bdc6ba9afe4a262508ccd4cbfb9.jar" />
-    </item>
-    <item
-        jar="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\release\classes-8fef6c6313d5a104c482a339fd2dd2849e1b44ae.jar" />
+        sha1="2dd7b1a9ea65bb03d9cd16df777eeaf537a1fc81">
+        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\debug\classes-0e5bb3bd5a213f347d8d2213e3ba9e5d8d50baaa.jar" />
     </item>
     <item
         jar="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\release\classes-3a1605427aa65fa2082808894785408d4c5b6b59.jar" />
-    </item>
-    <item
-        jar="C:\Users\Aditya Vikram\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\release\support-annotations-22.2.1-1a3e37fa721ab8f49886b35c684e71b56cbf517c.jar" />
+        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\debug\classes-3a1605427aa65fa2082808894785408d4c5b6b59.jar" />
     </item>
     <item
         jar="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\exploded-aar\com.mixpanel.android\mixpanel-android\4.6.3\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="d68088a2730f6040b8977f84488d98e2f17c4c58">
-        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\release\classes-24286eb0a1f9cc57a3fee7cba54c63983d3932de.jar" />
+        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\debug\classes-24286eb0a1f9cc57a3fee7cba54c63983d3932de.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\debug\classes-8fef6c6313d5a104c482a339fd2dd2849e1b44ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aditya Vikram\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1-1a3e37fa721ab8f49886b35c684e71b56cbf517c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aditya Vikram\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-ad86b2e6483ada0aa77a3ff5b9943b75c8f8a13d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\debug\classes-5643f6bcd16c0bdc6ba9afe4a262508ccd4cbfb9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Aditya Vikram\Documents\Android Projects\TrialStudio\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1-f57a76fca4586850d05a6677591e74593e926f72.jar" />
     </item>
 
 </items>

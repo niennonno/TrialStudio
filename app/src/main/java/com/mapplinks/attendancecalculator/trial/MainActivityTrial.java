@@ -13,6 +13,8 @@ import android.widget.*;
 
 import com.mapplinks.attendancecalculator.R;
 import com.mixpanel.android.mpmetrics.MixpanelAPI;
+import com.parse.Parse;
+import com.parse.ParseInstallation;
 
 import java.util.Random;
 
@@ -34,6 +36,10 @@ public class MainActivityTrial extends ActionBarActivity {
 
         getSupportActionBar().setDisplayShowHomeEnabled(true);
         getSupportActionBar().setDefaultDisplayHomeAsUpEnabled(true);
+
+       // Parse.enableLocalDatastore(this);
+        Parse.initialize(this, "bngtibG4aiXDQUcoaXrw74ZSnwmOGkEdCHbK75tz", "bl7wyZRbK0pVCdY1fI59pPN0XXkGkxlIx20e3iSI");
+        ParseInstallation.getCurrentInstallation().saveInBackground();
 
         final String[] incomplete = getResources().getStringArray(R.array.incomplete);
         final String[] exact = getResources().getStringArray(R.array.exact);
